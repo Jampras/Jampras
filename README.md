@@ -4,7 +4,7 @@
   <h3 align="center">Criando soluções, uma linha de código por vez.</h3>
 
   
-   ⚡ Fato Interessante : **Há mais estrelas no universo do que grãos de areia em todas as praias da Terra**
+   
 
    🔭 trabalho Atual : **Montagem e Manutenção de Computadores, consultoria presencial e remota**
 
