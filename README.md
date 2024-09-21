@@ -1,5 +1,11 @@
 <div align="center">
   
+![elden1](https://github.com/user-attachments/assets/5c83026c-01d1-405b-bb9b-e028037f44e5)![elden2](https://github.com/user-attachments/assets/35cf1a59-bd4f-4afe-8cf4-d51511eb82b5)![elden3](https://github.com/user-attachments/assets/8455699e-10f7-40d2-979c-3cfa6ab694f1)
+
+</div>
+
+<div align="center">
+  
   <h3 align="center">Criando soluções, uma linha de código por vez.</h3>
    
 
@@ -29,23 +35,3 @@
     
   </picture>
 </div>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jampras&label=Profile%20views&color=0e75b6&style=flat" alt="jampras" /> </p>
-
-
-
-<p align="left"> <img src="(https://github.com/user-attachments/assets/b7f877e1-6f29-46e3-8b84-40fac22a8aca) alt="elden1" width="200" height="200"/>
-
-
-<p align="center"> <img src="(https://github.com/user-attachments/assets/f79c8978-7573-4204-8eb0-bb338d05143f) alt="elden2" width="200" height="200"/>
-
-
-<p align="right"> <img src="(https://github.com/user-attachments/assets/b942abb5-1273-4d10-97c0-214ce73dcfcb) alt="elden3" width="200" height="200"/>
-
-
-
-
-
-
-
