@@ -6,8 +6,6 @@
    🔭 trabalho Atual : **Montagem e Manutenção de Computadores, consultoria presencial e remota**
 
  
-
-
   <h3 align="center">Linguagens e Ferramentas:</h3>
   <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"   height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a         href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a   href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
@@ -35,7 +33,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jampras&label=Profile%20views&color=0e75b6&style=flat" alt="jampras" /> </p>
 
-<img alt="cato" src="[https://raw.githubusercontent.com/Jampras/Jampras/output/github-contribution-grid-snake.svg](https://github.com/Jampras/Assets/issues/2#issue-2539822005)">
+
+
+<p align="left"> <img src="(https://github.com/user-attachments/assets/b7f877e1-6f29-46e3-8b84-40fac22a8aca) alt="elden1" width="200" height="200"/>
+
+
+<p align="center"> <img src="(https://github.com/user-attachments/assets/f79c8978-7573-4204-8eb0-bb338d05143f) alt="elden2" width="200" height="200"/>
+
+
+<p align="right"> <img src="(https://github.com/user-attachments/assets/b942abb5-1273-4d10-97c0-214ce73dcfcb) alt="elden3" width="200" height="200"/>
+
+
 
 
 
