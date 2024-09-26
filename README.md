@@ -1,7 +1,6 @@
 <div align="center">
   
-  ![elden1](https://github.com/user-attachments/assets/5c83026c-01d1-405b-bb9b-e028037f44e5)  ![elden2](https://github.com/user-attachments/assets/35cf1a59-bd4f-4afe-8cf4-d51511eb82b5)   ![elden3](https://github.com/user-attachments/assets/8455699e-10f7-40d2-979c-3cfa6ab694f1)
-
+ 
   <p> <img src="https://komarev.com/ghpvc/?username=Jampras&label=Profile%20views&color=0e75b6&style=flat" alt="Jampras" /> </p>
 
 </div>
