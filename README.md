@@ -3,12 +3,9 @@
 
   <h1>Joao Pedro</h1>
   <p>
-    <strong>Desenvolvedor em formacao</strong> com background tecnico em redes, eletronica e suporte.
+    <strong>Desenvolvedor Full Stack em formacao</strong> com background tecnico em redes, eletronica e suporte.
   </p>
-  <p>
-    Graduando em Engenharia de Software, construindo solucoes web com foco em desenvolvimento full stack,
-    aprendizado continuo e evolucao pratica.
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Graduando+em+Engenharia+de+Software;Construindo+solucoes+web+de+ponta+a+ponta;Front-end%2C+back-end+e+evolucao+continua" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -17,28 +14,54 @@
   <img src="https://img.shields.io/badge/Foco-Full%20Stack-FF6B35?style=for-the-badge&logo=codefactor&logoColor=white" alt="Foco" />
 </p>
 
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+
 ## Sobre mim
 
-- Trabalho atualmente com montagem e manutencao de computadores, alem de suporte tecnico presencial e remoto.
-- Estou expandindo minha base em desenvolvimento web full stack, com foco em interfaces, logica de aplicacao e organizacao de codigo.
-- Tenho interesse em transformar problemas reais em solucoes simples, funcionais e bem apresentadas.
-- Busco crescer como desenvolvedor por meio de projetos praticos, colaboracao e estudo consistente.
+- Atuo com montagem e manutencao de computadores, alem de suporte tecnico presencial e remoto.
+- Estou evoluindo como desenvolvedor full stack, conectando interface, logica de aplicacao e organizacao de codigo.
+- Gosto de transformar problemas reais em solucoes simples, funcionais e bem apresentadas.
+- Busco crescer com projetos praticos, consistencia nos estudos e colaboracao.
+
+    </td>
+    <td valign="top" width="50%">
+
+## Atualmente
+
+- Construindo base solida em desenvolvimento web full stack.
+- Aprofundando JavaScript, TypeScript e Python.
+- Trabalhando em projetos para fortalecer portfolio e experiencia pratica.
+- Foco em entregar interfaces limpas e aplicacoes com boa estrutura.
+
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%" align="center">
 
 ## Tecnologias e ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,figma,git,github,vscode" alt="Tecnologias e ferramentas" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,figma,git,github,vscode" alt="Tecnologias e ferramentas" />
 
-## GitHub em numeros
+    </td>
+    <td valign="top" width="50%" align="center">
+
+## Linguagens usadas
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jampras&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
+
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jampras&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
-</div>
 
 ## Contato
 
-<p align="center">
   <a href="https://linkedin.com/in/joao-pedro-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -48,7 +71,7 @@
   <a href="mailto:jaumjaopdro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jampras/Jampras/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
