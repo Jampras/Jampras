@@ -6,7 +6,7 @@
     <strong>Desenvolvedor em formacao</strong> com background tecnico em redes, eletronica e suporte.
   </p>
   <p>
-    Graduando em Engenharia de Software, construindo solucoes web com foco em interfaces bem pensadas,
+    Graduando em Engenharia de Software, construindo solucoes web com foco em desenvolvimento full stack,
     aprendizado continuo e evolucao pratica.
   </p>
 </div>
@@ -14,13 +14,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Local-Belo%20Jardim-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localizacao" />
   <img src="https://img.shields.io/badge/Formacao-Engenharia%20de%20Software-1F6FEB?style=for-the-badge&logo=bookstack&logoColor=white" alt="Formacao" />
-  <img src="https://img.shields.io/badge/Foco-Front--end%20%7C%20Python-FF6B35?style=for-the-badge&logo=codefactor&logoColor=white" alt="Foco" />
+  <img src="https://img.shields.io/badge/Foco-Full%20Stack-FF6B35?style=for-the-badge&logo=codefactor&logoColor=white" alt="Foco" />
 </p>
 
 ## Sobre mim
 
 - Trabalho atualmente com montagem e manutencao de computadores, alem de suporte tecnico presencial e remoto.
-- Estou expandindo minha base em desenvolvimento web, com foco em interfaces, organizacao de codigo e experiencia do usuario.
+- Estou expandindo minha base em desenvolvimento web full stack, com foco em interfaces, logica de aplicacao e organizacao de codigo.
 - Tenho interesse em transformar problemas reais em solucoes simples, funcionais e bem apresentadas.
 - Busco crescer como desenvolvedor por meio de projetos praticos, colaboracao e estudo consistente.
 
@@ -33,12 +33,7 @@
 ## GitHub em numeros
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jampras&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jampras&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Jampras&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
 </div>
 
 ## Contato
