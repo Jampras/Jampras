@@ -59,7 +59,11 @@
 
 <div align="center">
   <h3>Contribuicoes</h3>
-  <img width="100%" src="https://raw.githubusercontent.com/Jampras/Jampras/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jampras/Jampras/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jampras/Jampras/output/pacman-contribution-graph.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/Jampras/Jampras/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+  </picture>
 </div>
 
 <div align="center">
