@@ -60,9 +60,9 @@
 <div align="center">
   <h3>Contribuicoes</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jampras/Jampras/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jampras/Jampras/output/pacman-contribution-graph.svg">
-    <img width="100%" src="https://raw.githubusercontent.com/Jampras/Jampras/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jampras/Jampras/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jampras/Jampras/output/github-contribution-grid-snake.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/Jampras/Jampras/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
   </picture>
 </div>
 
