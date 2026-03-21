@@ -49,17 +49,17 @@
 <p><strong>Ferramentas:</strong> Git, GitHub, Figma e VS Code</p>
 </td>
 <td valign="top" width="50%" align="center">
-<h3>Contribuicoes</h3>
+<h3>Linguagens usadas</h3>
 <p>
-<img width="100%" src="https://raw.githubusercontent.com/Jampras/Jampras/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jampras&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
 </p>
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <h3>Linguagens usadas</h3>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jampras&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
+  <h3>Contribuicoes</h3>
+  <img width="100%" src="https://raw.githubusercontent.com/Jampras/Jampras/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </div>
 
 <div align="center">
