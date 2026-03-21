@@ -18,22 +18,24 @@
   <tr>
     <td valign="top" width="50%">
 
-## Sobre mim
-
-- Atuo com montagem e manutencao de computadores, alem de suporte tecnico presencial e remoto.
-- Estou evoluindo como desenvolvedor full stack, conectando interface, logica de aplicacao e organizacao de codigo.
-- Gosto de transformar problemas reais em solucoes simples, funcionais e bem apresentadas.
-- Busco crescer com projetos praticos, consistencia nos estudos e colaboracao.
+      <h3>Sobre mim</h3>
+      <ul>
+        <li>Atuo com montagem e manutencao de computadores, alem de suporte tecnico presencial e remoto.</li>
+        <li>Estou evoluindo como desenvolvedor full stack, conectando interface, logica de aplicacao e organizacao de codigo.</li>
+        <li>Gosto de transformar problemas reais em solucoes simples, funcionais e bem apresentadas.</li>
+        <li>Busco crescer com projetos praticos, consistencia nos estudos e colaboracao.</li>
+      </ul>
 
     </td>
     <td valign="top" width="50%">
 
-## Atualmente
-
-- Construindo base solida em desenvolvimento web full stack.
-- Aprofundando JavaScript, TypeScript e Python.
-- Trabalhando em projetos para fortalecer portfolio e experiencia pratica.
-- Foco em entregar interfaces limpas e aplicacoes com boa estrutura.
+      <h3>Atualmente</h3>
+      <ul>
+        <li>Construindo base solida em desenvolvimento web full stack.</li>
+        <li>Aprofundando JavaScript, TypeScript e Python.</li>
+        <li>Trabalhando em projetos para fortalecer portfolio e experiencia pratica.</li>
+        <li>Foco em entregar interfaces limpas e aplicacoes com boa estrutura.</li>
+      </ul>
 
     </td>
   </tr>
@@ -43,25 +45,39 @@
   <tr>
     <td valign="top" width="50%" align="center">
 
-## Tecnologias e ferramentas
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,figma,git,github,vscode" alt="Tecnologias e ferramentas" />
+      <h3>Tecnologias e ferramentas</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,figma,git,github,vscode" alt="Tecnologias e ferramentas" />
+      </p>
+      <p>
+        <strong>Front-end:</strong> HTML, CSS, JavaScript e TypeScript
+      </p>
+      <p>
+        <strong>Back-end:</strong> Python e logica de aplicacao
+      </p>
+      <p>
+        <strong>Ferramentas:</strong> Git, GitHub, Figma e VS Code
+      </p>
 
     </td>
     <td valign="top" width="50%" align="center">
 
-## Linguagens usadas
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jampras&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
+      <h3>Contribuicoes</h3>
+      <p>
+        <img width="100%" src="https://raw.githubusercontent.com/Jampras/Jampras/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+      </p>
 
     </td>
   </tr>
 </table>
 
 <div align="center">
+  <h3>Linguagens usadas</h3>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jampras&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
+</div>
 
-## Contato
-
+<div align="center">
+  <h3>Contato</h3>
   <a href="https://linkedin.com/in/joao-pedro-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -71,8 +87,4 @@
   <a href="mailto:jaumjaopdro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Jampras/Jampras/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </div>
